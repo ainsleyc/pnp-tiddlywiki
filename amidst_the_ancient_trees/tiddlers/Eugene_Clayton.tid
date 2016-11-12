@@ -1,0 +1,13 @@
+created: 20161104043609608
+modified: 20161104054414965
+tags: NPC Enemy
+title: Eugene Clayton
+type: text/vnd.tiddlywiki
+
+* HP: 13
+* Build: 1
+* Move: 8
+* Initiative: 62
+* ''Fighting'': 40/20/8, 1d3 fist + 1d4
+* ''Rifle'': 40/20/8, 2d6 + 4
+* ''Dodge'': 30/15/6

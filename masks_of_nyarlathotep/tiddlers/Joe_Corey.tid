@@ -1,0 +1,13 @@
+created: 20161106161444782
+modified: 20161106162036802
+tags: NPC
+title: Joe Corey
+type: text/vnd.tiddlywiki
+
+* HP: 15
+* Build: 2
+* Move: 8
+* Initiative: 70
+* Fist: 85/42/17, 1d3+1d6
+* Revolver: 65/32/13, 1d10+2
+* Dodge: 85/42/17

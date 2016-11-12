@@ -1,0 +1,18 @@
+created: 20161104052712441
+modified: 20161104055521506
+tags: Enemy NPC
+title: Joseph Turner
+type: text/vnd.tiddlywiki
+
+* HP: 20
+* Build: 1
+* Move: 7
+* Magic: 15
+* Initiative: 55
+* ''Fighting'': 50/25/10, (1d3 claw | 1d6 hunting knife) + 1d4
+* ''Shotgun'': 50/25/10, 4d6/2d6/1d6
+* ''Dodge'': 15/7/3
+* ''SAN'': 1/1d8
+* Spells
+** ''Dominate'': 1m, 10 yards - POW vs POW, victim must obey commands until next round
+** ''Barrier of Naach-Tith'': variable, 100 yards - 3d10 str per magic point, must deal damage in a single hit > str / 5 to destroy barrier

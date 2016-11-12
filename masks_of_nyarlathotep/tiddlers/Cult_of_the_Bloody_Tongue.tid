@@ -1,0 +1,19 @@
+created: 20161106043013204
+modified: 20161106044900274
+tags: Enemy
+title: Cult of the Bloody Tongue
+type: text/vnd.tiddlywiki
+
+* Originally from Kenya
+* Recently degenerates of all races in NY have been joining
+* Headquarters in Harlem shop which sells African paraphernalia
+* [[Silas N'Kwame]] runs the shop
+* [[Mukunga M'Dari]] the the priest of the cult
+* Assassins use a Pranga and wear a hideous headpiece with a dangling red strip form the forehead
+* Typical cultist:
+** HP: 13
+** Build: 1
+** Init: 65
+** Pranga: 45/22/9, 1d6+2
+** Dodge: 35/17/7
+** Sneak: 60/30/12
