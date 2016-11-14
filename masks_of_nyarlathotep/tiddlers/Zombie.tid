@@ -1,0 +1,12 @@
+created: 20161114005505974
+modified: 20161114010309171
+tags: Enemy
+title: Zombie
+type: text/vnd.tiddlywiki
+
+* ''SAN'': 1/1d8
+* HP: 12
+* Fighting 30/15/6: Bite 1d3 + 1d4
+* Init: 50
+* Move: 6
+* Only takes half damage from non-bludgeoning attacks
